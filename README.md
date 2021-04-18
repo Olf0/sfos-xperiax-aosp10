@@ -35,5 +35,6 @@ SailfishOS Hardware Adaptation ("HA") for Xperia X (suzu, loire, plus Xperia X C
 #### 1.6. Other interesting resources in this context
 * Rinigus' t-builder: https://github.com/sailfishos-sony-tama/tbuilder-project
 * An annoying bug: https://github.com/sonyxperiadev/device-sony-loire/commit/75811b2c2d85cc8147e1b4d6b29d22bfb5ac2c84#diff-bfe4388236c79fe44d6c494ecad6875e
-* https://irclogs.sailfishos.org/logs/%23sailfishos-porters/%23sailfishos-porters.2020-05-02.log.html
+* Another: https://github.com/sailfishos-oneplus5/droid-hal-device/blob/master/helpers/build_packages.sh#L247-L249
+* sailfishos-porters IRC log 2020-05-02: https://irclogs.sailfishos.org/logs/%23sailfishos-porters/%23sailfishos-porters.2020-05-02.log.html
 * https://opendevices.ix5.org/builds/
