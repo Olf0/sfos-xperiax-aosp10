@@ -3,9 +3,9 @@ SailfishOS Hardware Adaptation ("HA") for Xperia X (suzu, loire, plus Xperia X C
 
 ### 1. Collection of resources
 
-#### 1.1. Jolla's SFOS-HA for Xperia X based on AOSP 7 or 8 (?; forgot)
+#### 1.1. Jolla's SFOS-HA for Xperia X, based on AOSP 7
 
-#### 1.2. vknecht's experimental SFOS-HA for Xperia X based on AOSP 8 (Sony's last release)
+#### 1.2. vknecht's experimental SFOS-HA for Xperia X based on AOSP 8
 * https://build.merproject.org/project/show/home:vknecht:hw:qualcomm:f5121
 
 #### 1.3. vknecht's experimental SFOS-HA for Xperia X based on AOSP 9
@@ -29,8 +29,10 @@ SailfishOS Hardware Adaptation ("HA") for Xperia X (suzu, loire, plus Xperia X C
   **Side note**<br />
   For the  Xperia X Compact a single, later release exists (December 5, 2018):<br />
   https://developer.sony.com/file/download/open-source-archive-for-34-4-b-1-129/<br />
-  
-#### 1.5. Other interesting resources in this context
+
+#### 1.5. Jolla's SFOS-HA for Xperia 10 II based on AOSP 10
+
+#### 1.6. Other interesting resources in this context
 * Rinigus' t-builder: https://github.com/sailfishos-sony-tama/tbuilder-project
 * An annoying bug: https://github.com/sonyxperiadev/device-sony-loire/commit/75811b2c2d85cc8147e1b4d6b29d22bfb5ac2c84#diff-bfe4388236c79fe44d6c494ecad6875e
 * https://irclogs.sailfishos.org/logs/%23sailfishos-porters/%23sailfishos-porters.2020-05-02.log.html
